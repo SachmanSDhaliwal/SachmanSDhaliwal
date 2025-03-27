@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sachman Dhaliwal
 ========================================================================================================================================
 
-2nd Year CS Student | Seeking Internships
+3rd Year CS Student | Seeking Internships
 -----------------------------------------
 
 Hi my name is Sachman Dhaliwal and I am a Computer Science student based in Toronto. I am deeply passionate about leveraging emerging technologies and honing my skills to craft software solutions that address tangible, real-world challenges. I love collaborating in group settings including projects as well as student clubs like GDSC(Google Developers Student Club) @ TMU.
