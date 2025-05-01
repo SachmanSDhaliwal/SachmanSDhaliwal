@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hi my name is Sachman Dhaliwal and I am a Computer Science student based in Toronto. I am deeply passionate about leveraging emerging technologies and honing my skills to craft software solutions that address tangible, real-world challenges. I love collaborating in group settings including projects as well as student clubs like GDSC(Google Developers Student Club) @ TMU.
 
 * 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [SachmanDhaliwal](http://blank)
+* 🖥️  See my portfolio at [SachmanDhaliwal](https://sachman-home.vercel.app/)
 * ✉️  You can contact me at [Dhaliwalsachman@gmail.com](mailto:Dhaliwalsachman@gmail.com)
 * 🧠  I'm learning Kubernetes
 * ⚡  I love watching sports, specifically ⚽️ and 🏀
