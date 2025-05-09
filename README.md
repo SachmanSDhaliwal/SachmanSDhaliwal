@@ -9,7 +9,7 @@ Hi my name is Sachman Dhaliwal and I am a Computer Science student based in Toro
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [SachmanDhaliwal](https://sachman-home.vercel.app/)
 * ✉️  You can contact me at [Dhaliwalsachman@gmail.com](mailto:Dhaliwalsachman@gmail.com)
-* 🧠  I'm learning Kubernetes
+* 🧠  I'm learning cloud based technologies
 * ⚡  I love watching sports, specifically ⚽️ and 🏀
 
 ### Skills
